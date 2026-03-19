@@ -1,2 +1,62 @@
-# Hotel-Management-System
-A full-stack Hotel Management System using Java, Node.js, Express, and MongoDB
+# 🏨 Hotel Management System
+
+A web-based Hotel Management System developed using **PHP, MySQL, and XAMPP**.  
+This project allows efficient management of hotel operations including room booking, guest handling, and payments.
+
+---
+
+## 🚀 Features
+
+- 🛏️ Room Management (View available rooms & pricing)
+- 📅 Booking System (Check-in / Check-out functionality)
+- 👤 Guest Management (Store and manage guest details)
+- 💳 Payment Management (Track booking payments)
+- 🏢 Multi-Branch Support (Maharashtra, Gujarat, Goa)
+- ⚡ Dynamic Room Selection (Auto-fetch room details)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS  
+- **Backend:** PHP  
+- **Database:** MySQL  
+- **Server:** XAMPP (Apache)
+
+---
+
+## 🗄️ Database Design
+
+The system uses a relational database with the following tables:
+
+- `branches`
+- `rooms`
+- `guests`
+- `bookings`
+- `payments`
+
+👉 Demonstrates:
+- Primary & Foreign Keys
+- Normalization
+- Real-world relational mapping
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Homepage
+_Add your screenshot here_
+
+### 📅 Booking Page
+_Add your screenshot here_
+
+### 🗄️ Database (phpMyAdmin)
+_Add your screenshot here_
+
+---
+
+## ⚙️ How to Run Locally
+
+1. Install XAMPP  
+2. Start **Apache** and **MySQL**  
+3. Copy project folder to:
